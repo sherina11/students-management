@@ -10,3 +10,6 @@ This is a simple C project to manage student records.
 ## How to Run
 1. Compile: gcc student.c -o student
 2. Run: ./student
+
+### Author
+Raja Sherina T
