@@ -13,3 +13,4 @@ This is a simple C project to manage student records.
 
 ### Author
 Raja Sherina T
+CSE Department
